@@ -1,6 +1,7 @@
 winget source remove msstore
 winget install 7zip
 winget install powershell
+winget install powertoys
 winget install starship
 winget install ccleaner
 winget install Inkscape
@@ -12,6 +13,7 @@ winget install GitHub.cli
 winget install GitHub.GitHubDesktop
 winget install Microsoft.VisualStudio.2022.Community
 winget install marktext
+winget install obsidian
 
 winget install Valve.Steam
 winget install RiotGames.LeagueOfLegends.EUW
