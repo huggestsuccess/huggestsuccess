@@ -18,6 +18,7 @@ winget install obsidian
 winget install Valve.Steam
 winget install RiotGames.LeagueOfLegends.EUW
 winget install Discord
+winget install WhatsApp.WhatsApp
 winget install VideoLAN.VLC
 winget install Corsair.iCUE.4
 winget install Spotify
