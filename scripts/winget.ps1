@@ -15,6 +15,7 @@ winget install Microsoft.VisualStudio.2022.Community
 winget install marktext
 winget install obsidian
 
+winget install balenaEtcher
 winget install Valve.Steam
 winget install RiotGames.LeagueOfLegends.EUW
 winget install Discord
