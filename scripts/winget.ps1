@@ -1,26 +1,36 @@
 winget source remove msstore
 winget install 7zip
-winget install powershell
-winget install powertoys
-winget install starship
-winget install ccleaner
+winget install Microsoft.PowerShell 
+winget install Microsoft.PowerToys
+winget install Starship.Starship
+winget install Piriform.CCleaner 
 winget install Inkscape
-winget install VivaldiTechnologies.Vivaldi
 
-winget install Microsoft.DotNet.SDK.6
 winget install vscode
+winget install Git.Git
 winget install GitHub.cli
 winget install GitHub.GitHubDesktop
-winget install Microsoft.VisualStudio.2022.Community
-winget install marktext
-winget install obsidian
 
-winget install balenaEtcher
-winget install Valve.Steam
-winget install RiotGames.LeagueOfLegends.EUW
-winget install Discord
-winget install WhatsApp.WhatsApp
+
+winget install Google.Chrome.EXE                    
+winget install OBSProject.OBSStudio                 
+winget install Anthropic.Claude                     
+winget install Insecure.Nmap                        
+winget install BurntSushi.ripgrep.MSVC              
+winget install gsass1.NTop                          
+winget install jqlang.jq                            
+winget install junegunn.fzf                         
+winget install sharkdp.bat    
+
+
 winget install VideoLAN.VLC
-winget install Corsair.iCUE.4
-winget install Spotify
-winget install IObit.DriverBooster9
+winget install Spotify         
+
+
+winget install RiotGames.LeagueOfLegends.EUW
+winget install Valve.Steam
+winget install Discord
+
+
+winget install Corsair.iCUE.4                                                               
+                     
